@@ -1,0 +1,1 @@
+A JavaScript Date Library to be used for formatting date and time 
